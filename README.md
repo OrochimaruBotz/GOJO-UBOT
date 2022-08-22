@@ -25,7 +25,7 @@
 
 
 ## DEPLOY TO HEROKU
-[Klik](https://heroku.com/deploy?template=https://github.com/OrochimaruBotz/PandaX_Userbot)
+[Klik](https://heroku.com/deploy?template=https://github.com/OrochimaruBotz/YukkiMusicBot)
 
 """
 DISCLAIMER,
