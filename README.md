@@ -25,7 +25,7 @@
 
 
 ## DEPLOY TO HEROKU
-[Klik](https://heroku.com/deploy?template=https://github.com/OrochimaruBotz/GeezProjects)
+[Klik](https://heroku.com/deploy?template=https://github.com/OrochimaruBotz/GojoUserbot)
 
 """
 DISCLAIMER,
